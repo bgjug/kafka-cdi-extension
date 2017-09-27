@@ -1,0 +1,14 @@
+.classpath
+.project
+.settings
+.DS_Store
+target/
+*.iml
+*.ipr
+*.iws
+*.swp
+/*/src/main/java/META-INF
+.idea
+.forge_settings
+*.ddl
+report.html
